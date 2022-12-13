@@ -1,11 +1,12 @@
 # A-Simple-Calculator
 A Simple Calculator using HTML, CSS, Javascript
 Software used for editiing : Sublime Text
-This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
+This is a simple calculator functionality achieved using Javascript.
+The logic is very simple with the minimum lines of code possible.
 
 Steps to execute this calculator:
 Download the entire code
-Open up the Calculator.html.
+Open up the Calculator.html
 
 Technologies used:
 HTML
