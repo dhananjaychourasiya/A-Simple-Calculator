@@ -1,4 +1,7 @@
 # A-Simple-Calculator
+
+LAUNCH https://digitalplayground-859e3.firebaseapp.com/
+
 A Simple Calculator using HTML, CSS, Javascript
 Software used for editing : Sublime Text
 This is a simple calculator functionality achieved using Javascript.
